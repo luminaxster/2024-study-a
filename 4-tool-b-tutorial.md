@@ -45,4 +45,4 @@ You can alwasy check the ordely execution of your **code (6)** and search in it 
 
 
 ## You are all set on web logging and breakpointing.
-   - [Continue to the training task]()
+   - [Continue to the training task](https://seecode.run)
