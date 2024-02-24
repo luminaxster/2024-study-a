@@ -70,5 +70,5 @@ To locate a CodePen JavaScript's editor file for setting breakpoints, follow the
 ---
 
 ## You are all set on web logging and breakpointing.
-   - [Continue to the training task]()
+   - [Continue to the training task](https://github.com/luminaxster/2024-study-a/blob/main/0-tool-a-tutorial.md)
 
