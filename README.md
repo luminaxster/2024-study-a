@@ -2,7 +2,7 @@
 
 Thank you for expressing your interest in `A Study of Web Debugging with Live Programming.`
 
-Your participation will consist on working for around ** 2 hours** with online front-end JavaScript IDEs.
+Your participation will consist on working for around **2 hours** with online front-end JavaScript IDEs.
    - The study is focused on how you work with JavaScript in two different online IDEs.
    - On each IDE, you will be given a tutorial and training, and two tasks to work on. 
    - All the tasks are about JavaScript code, some will include jQuery or React APIs. API Documentation will be provided.
