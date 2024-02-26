@@ -1,6 +1,21 @@
-# Hi eligible participant!
+# Welcome to A Study of Web Debugging with Live Programming
 
-Thank you for expressing your interest in `A Study of Web Debugging with Live Programming.`
+Please feel free to ask any questions during your partipation. If you have to take a break or attend to something, we can pause the session and resume at any time.
+
+## Meet and Greet
+
+We will confirm we have your informed consent, and demographics documents on file.
+
+## Recording and setup
+
+We will start recording our Zoom meeting, and confirm your consent to participate in the in the study.
+
+
+Please close any other applications not part of the study, and use only browser tabs related to the experiment.
+
+You can use your usual setup (e.g. multiple displays), please share all your screens, not aonly the active window.
+
+## Participation
 
 Your participation will consist on working for around **2 hours** with online front-end JavaScript IDEs.
    - The study is focused on how you work with JavaScript in two different online IDEs.
@@ -8,7 +23,13 @@ Your participation will consist on working for around **2 hours** with online fr
    - All the tasks are about JavaScript code, some will include jQuery or React APIs. API Documentation will be provided.
    - A researcher will conduct a short exit interview about your experience with the IDEs.
 
-Please feel free to ask any questions during your partipation.
+
+https://github.com/luminaxster/2024-study-a/blob/main/0-tool-a-tutorial.md
+
+### Choose your partipation path
+
+The experimenter will let you know what participant link to follow:
+
 
 
 ### Research details
