@@ -41,6 +41,7 @@ As you work, you should externalize your thoughts and approach while you solve t
 Recommended: Understanding of functional componennts in React, including controlled components, state management, and component lifecycle.
 
 ### Relevant React Concepts
+-[event handling](https://react.dev/learn/responding-to-events#adding-event-handlers)
 - Controlled Components: Components that do not maintain their own state. Their state is controlled by their parent component.
 - Props in React: Read-only components that are used to pass data from a parent to a child component.
 - State Management: React's mechanism for controlling component data across render cycles.
