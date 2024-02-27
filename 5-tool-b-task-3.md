@@ -15,12 +15,9 @@ Your implementation should enable the `ItemModule` to make trigger changes when 
 ## Experiment Focus
 As you work, you should externalize your thoughts and approach while you solve the problem. As we are examining use of the programming and debugging tools, you should refrain from AI or Stack Overflow queries but may consult other forms of documentation.
 
-## Task Duration
+## Task Duration: 15 minutes
 
 ## [Task Link](https://seecode.run/#:-NqTY07s6k7Lf7QEnSrF) 
-
-### Estimated Completion Time
-15 minutes.
 
 ### Task Completion Checklist
 - [ ] Analyze the current `ItemModule` component implementation.
@@ -38,8 +35,8 @@ As you work, you should externalize your thoughts and approach while you solve t
 - The component updates when a user clicks through the `handleChange` method.
 
 ## Programming Background
-Recommended: Understanding of functional componennts in React, including props, and component lifecycle.
+Recommended: Understanding of functional components in React, including props, and component lifecycle.
 
 ### Relevant React Concepts
-- Props in React: Read-only components that are used to pass data from a parent to a child component.
-- State Management: React's mechanism for controlling component data across render cycles.
+- [Props in React](https://react.dev/learn/passing-props-to-a-component#step-1-pass-props-to-the-child-component): Read-only objects that are used to pass values from a parent to child components.
+- [State Management for Arrays](https://react.dev/learn/choosing-the-state-structure#avoid-duplication-in-state): React's mechanism for controlling component data across render cycles.
