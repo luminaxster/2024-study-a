@@ -15,22 +15,22 @@ As you work on your code, SCR will automatically bundle your HTML, CSS, and JS, 
 
    - **HTML**: Add your markup in the HTML section.
    - **CSS**: Style your page using the CSS section.
-   - **JavaScript**: Program interactivity in the JavaScript section, this is editor is a **SCR Live Editor (1)**.
+   - **JavaScript**: Program interactivity in the JavaScript section, this is editor is a **SCR Live Editor** :one:.
 
-In SCR, The JavaScript editor is `Live`, so every line of code shows its current program state **(2).** You can **explore** each expression as you normally would in a breakpoint debugger, without being limited by a time-forward stream.
+In SCR, The JavaScript editor is `Live`, so every line of code shows its current **program state** :two: You can **explore** each expression as you normally would in a breakpoint debugger, without being limited by a time-forward execution flow.
 
 ## Live See Code's Editor and Run Info
 
-Different from breakpoint debuggers, SCR offers time-traveling as inline navigation **(3)**, allowing you to go back and forth through functions and loops. You can search for values and locate elements in the output, all simultaneously.
+Different from breakpoint debuggers, SCR offers time-traveling as **inline navigation** :three:, allowing you to go back and forth through functions and loops. You can search for values and locate elements in the output, all simultaneously.
 
 ### See and Search everywhere, all at once
 
 The Live Editor also shows a snapshot of the program state at that point.
 
-Your program has different states, some represent data, others references to functions and other data structures, and others let you manipulate your app's visual elements **(4)** right to your web app output **(5).**
+Your program has different states, some represent data, others references to functions and other data structures, and others let you manipulate your app's **visual elements** :four: right to your web app **output** :five:.
 
 
-Now, let's take a look at the stream happening in this asynchronous code:
+Now, let's see how asynchronous code runs:
 
 From the screenshot above, expressions that do not execute are greyed out (line 10).
 
@@ -41,7 +41,7 @@ As soon the execute, they are vividly colored.
 
 ![image](https://github.com/luminaxster/2024-study-a/assets/6577822/c89d6cc1-6eea-4b37-9df1-f6e89a80e3db)
 
-You can alwasy check the ordely execution of your **code (6)** and search in it **(7).**
+You can always check the time-forward execution of your code :six: and search in it :seven:. Now your usual program search is unified. In addtion to typical text controls, you can filter by code, state values, or visual elements.
 
 
 ## You are all set on web logging and breakpointing.
