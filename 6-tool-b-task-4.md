@@ -15,9 +15,10 @@ Your implementation should enable the `ItemModule` component to reflect changes 
 ## Experiment Focus
 As you work, you should externalize your thoughts and approach while you solve the problem. As we are examining use of the programming and debugging tools, you should refrain from AI or Stack Overflow queries but may consult other forms of documentation.
 
+## Estimated Completion Time: 30 minutes
+
 ## [Task Link](https://seecode.run/#:-NqTf23hkC-uf_93Q1XE)
 
-## Estimated Completion Time: 30 minutes
 
 ### Task Completion Checklist
 - [ ] Analyze the current `ItemModule` component implementation.
