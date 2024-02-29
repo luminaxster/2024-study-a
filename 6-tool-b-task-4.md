@@ -17,7 +17,9 @@ As you work, you should externalize your thoughts and approach while you solve t
 
 ## Task Duration
 
-## [Task Link](https://seecode.run/#:-NqTf23hkC-uf_93Q1XE)
+## [Task Link](https://codepen.io/luminaxster/pen/ZEZEGBd)
+
+
 
 ### Estimated Completion Time
 30 minutes.
@@ -43,3 +45,5 @@ Recommended: Understanding of functional componennts in React, including control
 ### Relevant React Concepts
 - [Props in React](https://react.dev/learn/passing-props-to-a-component#step-1-pass-props-to-the-child-component): Read-only objects that are used to pass values from a parent to child components.
 - [State Management for Arrays](https://react.dev/learn/choosing-the-state-structure#avoid-duplication-in-state): React's mechanism for controlling component data across render cycles.
+
+- ## [Task Link](https://seecode.run/#:-NqTf23hkC-uf_93Q1XE)
