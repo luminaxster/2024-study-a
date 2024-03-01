@@ -45,4 +45,4 @@ You can always check the time-forward execution of your code :six: and search in
 
 
 ## You are all set on web logging and breakpointing.
-   - [Continue to the training task](https://seecode.run)
+   - [Continue to the training task](https://github.com/luminaxster/2024-study-a/blob/main/Tool-Training.md)
