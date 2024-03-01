@@ -15,10 +15,7 @@ Your implementation should enable the `ItemModule` component to reflect changes 
 ## Experiment Focus
 As you work, you should externalize your thoughts and approach while you solve the problem. As we are examining use of the programming and debugging tools, you should refrain from AI or Stack Overflow queries but may consult other forms of documentation.
 
-## Estimated Completion Time: 30 minutes
-
-## [Task Link](https://seecode.run/#:-NqTf23hkC-uf_93Q1XE)
-
+## Task Duration: 30 minutes
 
 ### Task Completion Checklist
 - [ ] Analyze the current `ItemModule` component implementation.
@@ -38,8 +35,10 @@ As you work, you should externalize your thoughts and approach while you solve t
 ## Programming Background
 Recommended: Understanding of functional componennts in React, including controlled components, state management, and component lifecycle.
 
-### Relevant React Concepts
+### Relevant React APIs
 - [Props in React](https://react.dev/learn/passing-props-to-a-component#step-1-pass-props-to-the-child-component): Read-only objects that are used to pass values from a parent to child components.
 - [State Management for Arrays](https://react.dev/learn/choosing-the-state-structure#avoid-duplication-in-state): React's mechanism for controlling component data across render cycles.
 
-## [TL](https://codepen.io/luminaxster/pen/ZEZEGBd)
+## Task Link (the resercher will prompt what link to follow)
+- [CP](https://codepen.io/luminaxster/pen/ZEZEGBd)
+- [SCR](https://seecode.run/#:-NqTf23hkC-uf_93Q1XE)
