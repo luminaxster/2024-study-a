@@ -26,7 +26,7 @@ As you work, you should externalize your thoughts and approach while you solve t
 
 ### Relevant React APIs
 Documenation to understanding React props, including controlled components, and state management.
-- [Props in React](https://react.dev/learn/passing-props-to-a-component#step-1-pass-props-to-the-child-component): Read-only objects that are used to pass values from a parent to child components.
+- [State in React](https://react.dev/learn/state-a-components-memory): Read-only objects that are used to keep the status of the app data and component.
 - [State Management for Arrays](https://react.dev/learn/choosing-the-state-structure#avoid-duplication-in-state): React's mechanism for controlling component data across render cycles.
 
 ## Task Completion Checklist
