@@ -17,7 +17,11 @@ As you work, you should externalize your thoughts and approach while you solve t
 ## Task Background
 
 ### Understanding Components in React
-A **component** in React is a way to organize what its going to be rendered in your web app's UI. A functional component is a React component as a function receiving values from its parent component as arguments, the first argument is often refred as the object `props`. Within those props, fucntions that notify changes back to it through event handling callbacks.
+A **component** in React is a way to organize what its going to be rendered in your web app's UI. 
+
+A functions such `function X(props){return (<div>{props.name}</div>)}` can be used to be rendered in your web app with `<X name="totoro" />`;
+
+A functional component is a React component as a function receiving values from its parent component as arguments, the first argument is often refred as the object `props`. Within those props, functions that notify changes back to it through event handling callbacks.
 
 ### Current Implementation Details
 - The `ItemModule` component uses props from the parent component.
