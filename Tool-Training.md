@@ -1,4 +1,4 @@
-# Task: Click counter mismatch 
+# Training Task: Click counter mismatch 
 
 ## Experiment Focus
 
@@ -30,7 +30,7 @@ You have explain the contents of the variable `array`, how it is referenced in t
 - [ ] Fixed the misbehaving click effects.
 
 ## Task Link
-[Online Code](https://codepen.io/luminaxster/pen/GRebNxL)
+[CodePen](https://codepen.io/luminaxster/pen/GRebNxL)   [SeeCode.Run](https://seecode.run)
 
 ## Task Background
 
