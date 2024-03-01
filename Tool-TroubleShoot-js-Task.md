@@ -21,10 +21,7 @@ Your revised code should successfully apply the `'marked'` attribute to all targ
 ## Experiment Focus
 As you work, you should externalize your thoughts and approach while you solve the problem. As we are examining use of the programming and debugging tools, you should refrain from AI or Stack Overflow queries but may consult other forms of documentation.
 
-## Task Duration
-
-### Estimated Completion Time
-15 minutes.
+## Task Duration: 15 minutes
 
 ### Task Completion Checklist
 - [ ] Identify the issue with the original iteration method.
@@ -45,7 +42,8 @@ As you work, you should externalize your thoughts and approach while you solve t
 - The initial iteration approach leads to an error, preventing the successful application of the `'marked'` attribute.
 
 ## Task Link
-[https://codepen.io/luminaxster/pen/jOJjBog](https://codepen.io/luminaxster/pen/jOJjBog)
+[CP](https://codepen.io/luminaxster/pen/jOJjBog)
+[SCR](https://seecode.run/#:-NrrDAdCMzjel55-5rdl)
 
 ## Programming Background
 Recommended: Familiarity with JavaScript, particularly DOM manipulation and understanding of different iteration methods in JavaScript.
