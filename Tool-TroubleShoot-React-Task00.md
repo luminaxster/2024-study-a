@@ -21,7 +21,7 @@ A **component** in React is a way to organize what its going to be rendered in y
 
 A functions such `function X(props){return (<div>{props.name}</div>)}` can be used to be rendered in your web app with `<X name="totoro" />`;
 
-A functional component is a React component as a function receiving values from its parent component as arguments, the first argument is often refred as the object `props`. Within those props, functions that notify changes back to it through event handling callbacks.
+A functional component is a React component as a function receiving values from its parent component as arguments, the first argument is often refred as the object `props`. Within those props, the are functions that notify changes back to it through event handling callbacks.
 
 ### Current Implementation Details
 - The `ItemModule` component uses props from the parent component.
@@ -30,7 +30,7 @@ A functional component is a React component as a function receiving values from 
 ### Relevant React APIs
 
  API documentation for understanding functional components in React, including props, and event handling lifecycle.
-- [React Functional Components](https://react.dev/learn/your-first-component): functions such `function X(props){return (<div>{props.name}</div>)}` can be used to be rendered in your web app with `<X name="totoro" />`;
+- [React Functional Components](https://react.dev/learn/your-first-component): functions that can be used for rendering in custom syntax, JSX (e.g. `<X name="totoro" />`);
 - [Props in React](https://react.dev/learn/passing-props-to-a-component#step-1-pass-props-to-the-child-component): Read-only objects that are used to pass values from a parent to child components.
 - [Event handling](https://react.dev/learn/responding-to-events#adding-event-handlers):  click handling functions as `prop`erties can be pass down to React elements such as `div`. They trigger DOM events.
 
