@@ -32,7 +32,7 @@ As you work, you should externalize your thoughts and approach while you solve t
 
 ### Current Implementation Details
 - The `ItemModule` component uses props from the parent component.
-- The component updates when a user clicks through the `handleChange` method.
+- The component updates when a user clicks through passed props.
 
 ## Programming Background
 Recommended: Understanding of functional components in React, including props, and component lifecycle.
