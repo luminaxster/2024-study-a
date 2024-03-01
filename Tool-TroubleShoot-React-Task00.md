@@ -17,18 +17,20 @@ As you work, you should externalize your thoughts and approach while you solve t
 
 ## Task Duration: 15 minutes
 
-## [Task Link](https://seecode.run/#:-NqTY07s6k7Lf7QEnSrF) 
+## Task Link (the resercher will prompt what link to follow)
+- [CP](https://codepen.io/luminaxster/pen/wvZvaKm)
+- [SCR](https://seecode.run](https://seecode.run/#:-NqTY07s6k7Lf7QEnSrF))
 
 ### Task Completion Checklist
 - [ ] Analyze the current `ItemModule` component implementation.
-- [ ] Verify the mechanism to update the `RepeatModule` component's value from the parent component.
-- [ ] Ensure the `ItemModule` component remains a controlled component, and support user actions.
-- [ ] Test the updated functionality to confirm that `RepeatModule` and `ItemModule` in the app.
+- [ ] Verify the props the `RepeatModule` component passes as values to `ItemModule`.
+- [ ] Ensure the `ItemModule` supports user actions when clicked.
+- [ ] Test the updated functionality to confirm that `ItemModule` clickes when the app is used.
 
 ## Task Background
 
-### Understanding Controlled Components in React
-- A component in React may have properties such data and actions. It receives its current value as a prop and notifies changes through event handling callbacks.
+### Understanding Components in React
+- A component in React may have properties such data and actions. It receives its current value as a `prop` and notifies changes through event handling callbacks.
 
 ### Current Implementation Details
 - The `ItemModule` component uses props from the parent component.
@@ -39,5 +41,5 @@ Recommended: Understanding of functional components in React, including props, a
 
 ### Relevant React Concepts
 - [React Functional Components](https://react.dev/learn/your-first-component): functions such `function X(props){return (<div>{props.name}</div>)}` can be used to be rendered in your web app with `<X name="totoro" />`;
-- [Event handling](https://react.dev/learn/responding-to-events#adding-event-handlers):  `onClick` properties can be pass down to React elements such as `div`. They trigger DOM events.
+- [Event handling](https://react.dev/learn/responding-to-events#adding-event-handlers):  click handling fucntions properties can be pass down to React elements such as `div`. They trigger DOM events.
 
