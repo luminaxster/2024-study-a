@@ -43,6 +43,10 @@ For example, this pen's JS code has a `console.log` at line `14` logging some pr
 
 To locate a CodePen JavaScript's editor file for setting breakpoints, follow these steps.
 
+0. In your JS code, tyep the keyword `debugger`. 
+
+If you are familiar with the debugger and breakpoints, you can skip the next section.
+
 1. **The Source Code Tab**:
    - In Chrome/Edge: Click on the "Sources" tab.
    - In Firefox: Select the "Debugger" tab.
