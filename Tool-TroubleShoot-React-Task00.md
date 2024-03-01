@@ -24,7 +24,7 @@ As you work, you should externalize your thoughts and approach while you solve t
 ## Programming Background
 Recommended: Understanding of functional components in React, including props, and component lifecycle.
 
-### Relevant React Concepts
+### Relevant React APIs
 - [React Functional Components](https://react.dev/learn/your-first-component): functions such `function X(props){return (<div>{props.name}</div>)}` can be used to be rendered in your web app with `<X name="totoro" />`;
 - [Props in React](https://react.dev/learn/passing-props-to-a-component#step-1-pass-props-to-the-child-component): Read-only objects that are used to pass values from a parent to child components.
 - [Event handling](https://react.dev/learn/responding-to-events#adding-event-handlers):  click handling functions as `prop`erties can be pass down to React elements such as `div`. They trigger DOM events.
