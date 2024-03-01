@@ -23,13 +23,8 @@ Your participation will consist on working for around **2 hours** with online fr
    - All the tasks are about JavaScript code, some will include jQuery or React APIs. API Documentation will be provided.
    - A researcher will conduct a short exit interview about your experience with the IDEs.
 
-
-https://github.com/luminaxster/2024-study-a/blob/main/0-tool-a-tutorial.md
-
-### Choose your partipation path
-
-The experimenter will let you know what participant link to follow:
-
+### The research will let you know whn to follow this link
+[https://github.com/luminaxster/2024-study-a/blob/main/0-tool-a-tutorial.md](https://github.com/luminaxster/2024-study-a/blob/main/0-tool-a-tutorial.md)
 
 
 ### Research details
