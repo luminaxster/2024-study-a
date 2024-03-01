@@ -42,8 +42,9 @@ As you work, you should externalize your thoughts and approach while you solve t
 - The initial iteration approach leads to an error, preventing the successful application of the `'marked'` attribute.
 
 ## Task Link
-[CP](https://codepen.io/luminaxster/pen/jOJjBog)
-[SCR](https://seecode.run/#:-NrrDAdCMzjel55-5rdl)
+
+- [CP](https://codepen.io/luminaxster/pen/jOJjBog)
+- [SCR](https://seecode.run/#:-NrrDAdCMzjel55-5rdl)
 
 ## Programming Background
 Recommended: Familiarity with JavaScript, particularly DOM manipulation and understanding of different iteration methods in JavaScript.
