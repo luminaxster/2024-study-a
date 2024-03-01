@@ -29,8 +29,9 @@ You have explain the contents of the variable `array`, how it is referenced in t
 - [ ] Explained the effects of clicking the button `click me!` after some clicks.
 - [ ] Fixed the misbehaving click effects.
 
-## Task Link
-[CodePen](https://codepen.io/luminaxster/pen/GRebNxL)   [SeeCode.Run](https://seecode.run)
+## Task Link (the resercher will prompt what link to follow)
+- [CP](https://codepen.io/luminaxster/pen/GRebNxL)
+- [SCR](https://seecode.run)
 
 ## Task Background
 
