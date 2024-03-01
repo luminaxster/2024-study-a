@@ -45,8 +45,8 @@ As you work, you should externalize your thoughts and approach while you solve t
 - The main issue is that selecting a second value (maxValue) disrupts the expected filter behavior.
 
 ## Task link
-
-[https://codepen.io/luminaxster/pen/rNRYzvq](https://codepen.io/luminaxster/pen/rNRYzvq)
+- [SCR](https://seecode.run/#:-Nrvu4C30oon3ynQrHH0)
+- [CP](https://codepen.io/luminaxster/pen/rNRYzvq)
 
 
 ## Programming Background
