@@ -38,6 +38,6 @@ As you work, you should externalize your thoughts and approach while you solve t
 Recommended: Understanding of functional components in React, including props, and component lifecycle.
 
 ### Relevant React Concepts
-- [React Functional Components](): functions such `function X(props){return (<div>{props.name}</div>)}` can be used to be rendered in your web app with `<X name="totoro" />`;
+- [React Functional Components](https://react.dev/reference/react/Component): functions such `function X(props){return (<div>{props.name}</div>)}` can be used to be rendered in your web app with `<X name="totoro" />`;
 - [Event handling](https://react.dev/learn/responding-to-events#adding-event-handlers):  `onClick` properties can be pass down to React elements such as `div`. They trigger DOM events.
 
