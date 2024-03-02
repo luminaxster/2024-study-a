@@ -47,5 +47,5 @@ Your implementation should enable the `ItemModule` to make trigger changes when 
 
 ## Task Link (the resercher will prompt what link to follow)
 - [CP](https://codepen.io/luminaxster/pen/wvZvaKm)
-- [SCR](https://seecode.run](https://seecode.run/#:-NqTY07s6k7Lf7QEnSrF))
+- [SCR](https://seecode.run/#:-NqTY07s6k7Lf7QEnSrF)
 
