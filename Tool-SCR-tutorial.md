@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[SeeCode.Run](https://seecode.run/) `(SCR)` is a platform to rapidly prototype your web app ideas. It unifies exploring, navigating, and searching through your code as it runs, streamlining your development from imagination to application.
+SeeCode.Run `(SCR)` is a platform to rapidly prototype your web app ideas. It unifies exploring, navigating, and searching through your code as it runs, streamlining your development from imagination to application.
 
 ## SeeCode.Run Programming
 
