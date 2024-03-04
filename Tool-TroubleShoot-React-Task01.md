@@ -22,7 +22,7 @@ As you work, you should externalize your thoughts and approach while you solve t
 
 ### Current Implementation Details
 - The `ItemModule` component's selected value is stored based on a prop from the parent component.
-- The component updates its state and notifies the parent when a user makes a selection through the `handleChange` method.
+- The component updates its state and notifies the parent when a user acts on button through the `handleClick` method.
 
 ### Relevant React APIs
 Documenation to understanding React props, including controlled components, and state management.
@@ -37,6 +37,6 @@ Documenation to understanding React props, including controlled components, and 
 
 ## Task Duration: 30 minutes
 
-## Task Link (the resercher will prompt what link to follow)
+## Task Link (the researcher will prompt what link to follow)
 - [CP](https://codepen.io/luminaxster/pen/ZEZEGBd)
 - [SCR](https://seecode.run/#:-NqTf23hkC-uf_93Q1XE)
