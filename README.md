@@ -13,7 +13,9 @@ We will start recording our Zoom meeting, and confirm your consent to participat
 
 Please close any other applications not part of the study, and use only browser tabs related to the experiment.
 
-You can use your usual setup (e.g. multiple displays), please share all your screens, not aonly the active window.
+If using a laptop, make sure is connected to a power source. The tools may be resource intensive.
+
+You can use your usual setup (e.g. multiple displays), please share all your screens, not only the active window.
 
 ## Participation
 
