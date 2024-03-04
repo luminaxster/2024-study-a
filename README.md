@@ -17,7 +17,8 @@ If using a laptop, make sure is connected to a power source. The tools may be re
 
 You can use your usual setup (e.g. multiple displays), please share all your screens, not only the active window.
 
-### THE TOOLS ARE ONLINE IDES YOU CAN DO ANYTHING YOU USALLY DO WHEN DEVELOPING, ONLY AVOID AI ASSISTANTS (CHATGPT, COPILOT) AND VISITING STACKOVERFLOW
+### THE TOOLS ARE ONLINE IDES
+#### YOU CAN DO ANYTHING YOU USALLY DO WHEN DEVELOPING, ONLY AVOID AI ASSISTANTS (CHATGPT, COPILOT) AND VISITING STACKOVERFLOW
 
 ## Participation
 
